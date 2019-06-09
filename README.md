@@ -1,0 +1,2 @@
+# freebsd-traductions-test
+Test
